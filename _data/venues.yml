@@ -1,9 +1,23 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"Chaos":
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"PRE":
+  color: "#A540DB"
 
-"Vision":
-  color: "#009f36"
+"JCompNeuro":
+  color: "#8112DE"
+
+"JNeurophys":
+  color: "#E67500"
+
+"NeuralComp":
+  color: "#E31950"
+
+"PLoSCompBio":
+  color: "#F5B90F"
+
+"MathBiosci":
+  color: "#E378D5"
+
+"Springer":
+   color: "#009f36"
