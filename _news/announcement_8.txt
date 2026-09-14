@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2026-06-26
+inline: true
+related_posts: false
+---
+
+<a href='https://assets-eu.researchsquare.com/files/rs-9972009/v1_covered_4e9f3866-242b-4db6-bb89-56de8fb97aab.pdf?c=1782467870'>Preprint available on Brian's AMPA receptor modelling work</a>

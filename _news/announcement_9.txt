@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2026-08-14
+inline: true
+related_posts: false
+---
+
+<a href='https://www.biorxiv.org/content/10.64898/2026.08.10.743870v1.abstract'>Preprint available on our joint work with collaborators at the University of Nottingham on modelling beta bursts</a>

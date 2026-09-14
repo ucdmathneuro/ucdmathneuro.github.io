@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2026-09-08
+inline: true
+related_posts: false
+---
+
+<a href='https://www.biorxiv.org/content/10.64898/2026.09.03.749154v1.abstract'>Preprint available on Indra's new algorithm for analysing spike train data</a>
