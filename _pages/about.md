@@ -6,7 +6,7 @@ subtitle: <big><b>Group lead </b> <a href='/people'>Áine Byrne</a></big>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: group_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
   
