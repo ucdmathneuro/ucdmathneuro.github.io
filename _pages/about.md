@@ -34,8 +34,9 @@ In our work, we utilise mathematical tools from dynamical systems theory and sta
 
 
 <p style="margin : 0; padding-top:0;"><b>Location:</b></p>
-<p style="margin : 0; padding-top:0;">O'Brien Centre for Science (South)</p>
+<p style="margin : 0; padding-top:0;">O'Brien Centre for Science (North)</p>
 <p style="margin : 0; padding-top:0;">University College Dublin</p>
 <p style="margin : 0; padding-top:0;">Belfield, Dublin 4</p>
+
 
 
