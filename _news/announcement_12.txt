@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Niamh and Kai attended and presented at the 2026 
-<a href='https://www.crmath.ca/en/activities/#/type/activity/id/4076'>International Conference on Mathematical Neuroscience</a> in Montreal 
+Niamh and Indra attend and present at the
+ <a href='https://www.crmath.ca/en/activities/#/type/activity/id/4076'>2026 International Conference on Mathematical Neuroscience</a> in Montreal 
