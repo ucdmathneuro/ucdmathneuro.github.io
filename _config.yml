@@ -6,8 +6,7 @@ title: UCD Mathematical Neuroscience Group # the website title (if blank, full n
 first_name: Áine
 middle_name: 
 last_name: Byrne
-contact_note: >
-  #You can even add a little note about which of these is the best way to reach you.
+contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -251,7 +250,6 @@ exclude:
   - _pages/teaching.md
   - _pages/projects.md
   - _pages/dropdown.md
-  - _pages/news.md
   - purgecss.config.js
   - README.md
   - readme_preview/
